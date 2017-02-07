@@ -1,4 +1,6 @@
 ru:
+  msg:
+    permalink: "Адрес"
   date:
     abbr_day_names:
     - Вс
