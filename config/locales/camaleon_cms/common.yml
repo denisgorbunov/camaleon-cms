@@ -291,7 +291,7 @@ ru:
       post_tag_list: "Список тегов"
       sub_category_list: "Список подкатегорий"
       content_list: "Список контентов: %s"
-      visit: "Посетить"
+      visit: "На сайт"
       no_contents_found: "Контенты не найдены"
       no_results_found: "Результатов не найдено"
 
