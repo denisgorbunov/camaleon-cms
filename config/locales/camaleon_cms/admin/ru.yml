@@ -386,14 +386,14 @@ ru:
         appearance: 'Внешний вид'
         comments: 'Комментарии'
         content: 'Содержание'
-        contents: 'Содержании'
-        content_groups: 'Группы содержании'
+        contents: 'Содержание'
+        content_groups: 'Группы содержания'
         custom_fields: 'Пользовательские поля'
         dashboard: 'Панель управления'
         general_site: 'Главный сайт'
         information: 'Информация'
         languages: 'Языки'
-        shortcodes: "Shortcodes"
+        shortcodes: "Шорткоды"
         media: 'Медиа'
         menus: 'Меню'
         navigation: 'Навигация'
@@ -409,7 +409,7 @@ ru:
         main_navigation: "Главная Навигация"
       sidebar_top:
         admin_panel: 'Админ. Панель'
-        visit: 'Посетить'
+        visit: 'На сайт'
       sites:
         add_site: 'Добавить сайт'
         message:
