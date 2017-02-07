@@ -1,5 +1,6 @@
 ru:
   camaleon_cms:
+    see_intro: "Руководство"
     welcome_message: "Добро пожаловать в Camaleon CMS"
     page_not_exist: "<h1>ой...</h1><h5>Страница, которую вы ищете, не существует.</h5>"
     page_error_500: "<h1>ой...</h1><h5>Ошибка 500 Внутренняя ошибка сервера. Пожалуйста, свяжитесь с администратором.</h5>"
@@ -406,7 +407,7 @@ ru:
         users: 'Пользователи'
         widget: 'Виджет'
         widgets: 'Виджеты'
-        main_navigation: "Главная Навигация"
+        main_navigation: "Навигация"
       sidebar_top:
         admin_panel: 'Админ. Панель'
         visit: 'На сайт'
