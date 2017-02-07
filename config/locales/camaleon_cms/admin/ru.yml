@@ -1,9 +1,12 @@
 ru:
+  msg:
+    permalink: "Адрес"
   camaleon_cms:
     see_intro: "Руководство"
     welcome_message: "Добро пожаловать в Camaleon CMS"
     page_not_exist: "<h1>ой...</h1><h5>Страница, которую вы ищете, не существует.</h5>"
     page_error_500: "<h1>ой...</h1><h5>Ошибка 500 Внутренняя ошибка сервера. Пожалуйста, свяжитесь с администратором.</h5>"
+
     admin:
       request_error_message: "Произошла ошибка, пожалуйста, свяжитесь с администратором."
       authorization_error: "У вас нет прав для этого раздела."
@@ -229,19 +232,19 @@ ru:
       post:
         add_tag: 'Добавить тег'
         clone: 'Клонировать'
-        clone_content: 'Клонировать контент'
+        clone_content: 'Клонировать содержимое'
         label_required: 'Необходимая метка'
-        placeholder_required: 'Неоюходимый заполнитель'
+        placeholder_required: 'Обязательно для заполнения'
         message:
-          created: '%{post_type} был создан.'
-          updated: '%{post_type} был обновлен.'
-          deleted: '%{post_type} был удален.'
+          created: '%{post_type} создан.'
+          updated: '%{post_type} обновлен.'
+          deleted: '%{post_type} удален.'
           error: 'Ошибка %{post_type}'
           error_post_type: 'Ошибка %{post_type}'
-          trash: '%{post_type} был перемещен в корзину.'
-          requires_different_slug: 'Требует другой slug'
-          restore: '%{post_type} был восстановлен.'
-          draft: 'Эскиз был успешно сохранен.'
+          trash: '%{post_type} перемещен в корзину.'
+          requires_different_slug: 'Этот адрес уже используется, укажите другой.'
+          restore: '%{post_type} восстановлен.'
+          draft: 'Черновик сохранен.'
           recover: 'Восстановление...'
         permalink: 'Постоянная ссылка'
       post_type:
@@ -257,7 +260,7 @@ ru:
         configuration: 'Конфигурация'
         other_configuration: 'Пользовательские конфигурации'
         comments: 'Комментарии'
-        draft: 'Эскиз'
+        draft: 'Черновик'
         edit_post_type: 'Редактировать тип поста'
         edit_category: 'Редактировать Категорию'
         enter_password: 'Введите пароль'
@@ -280,7 +283,7 @@ ru:
         post_tags: 'Тэги поста'
         published: 'Опубликованный'
         published_date: 'Дата публикации'
-        save_draft: 'Сохранить эскиз'
+        save_draft: 'Сохранить черновик'
         save_pending: 'Сохранить рассматривание'
         summary: 'Резюме'
         tags: 'Тэги'
